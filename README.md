@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sneh Malhotra
 
-🚀 AI Enablement Leader | GenAI Trainer | Enterprise Transformation Expert  
+AI Enablement Leader | GenAI Trainer | Enterprise Transformation Expert  
 
 I help educators, professionals, and organizations **learn, implement, and scale AI in real-world scenarios**.
 
@@ -8,10 +8,10 @@ I help educators, professionals, and organizations **learn, implement, and scale
 
 ## 🔥 What I Do
 
-- 🎯 Conduct hands-on **AI & GenAI training programs**
-- 🤖 Build **AI-powered workflows & automation systems**
-- 📊 Enable **digital transformation for education & enterprises**
-- 🧠 Teach **Prompt Engineering for real business impact**
+- Conduct hands-on **AI & GenAI training programs**
+- Build **AI-powered workflows & automation systems**
+- Enable **digital transformation for education & enterprises**
+- Teach **Prompt Engineering for real business impact**
 
 ---
 
@@ -47,8 +47,8 @@ Real-world applications across business & education
 
 ## 🌐 Connect With Me
 
-- 🌍 Website: https://motivevania.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/msmalhotra  
+- Website: https://motivevania.com  
+- LinkedIn: https://www.linkedin.com/in/msmalhotra  
 
 ---
 
